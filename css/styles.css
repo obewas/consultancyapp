@@ -30,7 +30,12 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: larger;
-    color: greenyellow;
+    font-size:xx-large;
+    color:blue;
+    font-weight: bolder;
     
+  }
+  .history, .vision, .mission, .values, .slogan {
+      margin-left: 5em;
+      margin-right: 5em;
   }
