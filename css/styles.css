@@ -42,3 +42,8 @@
   .services h5 {
       text-align: center;
   }
+  .research, .needs, .market, .monitoring, .evaluation, .capacity {
+      margin-left: 5em;
+      margin-right: 5em;
+
+  }
